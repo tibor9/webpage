@@ -1,0 +1,34 @@
+# Theme metadata
+name = "custom"
+
+light = true
+
+# Primary
+primary = "#70825D" # main green
+background = "#FCFEFA" # white
+
+# Menu
+menu_primary = "#343B35" # dark green
+menu_text = "#FCFEFA" # white
+menu_text_active = "#70825D" # main green
+menu_title = "#F5F1EB" # white
+
+# Home sections - this is a background
+home_section_odd = "#FCFEFA" # white
+home_section_even = "rgb(247, 247, 247)" # whiter
+
+# links
+link = "#A3D56E" # pistachio
+link_hover = "#70825D" # main green
+
+[dark]
+	primary = "#517A8C"
+	# Home sections - this is a background
+	home_section_odd = "#343B35" # dark dark green
+	home_section_even = "#1F2222" # even darker green
+
+	# links
+	link = "#A3D56E" # pistachio
+	link_hover = "#70825D" # main green
+
+  

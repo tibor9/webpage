@@ -5,8 +5,8 @@
 
 main:
   - name: People
-    url: people
+    url: "#people"
     weight: 30
   - name: Contact
-    url: contact
+    url: "#contact"
     weight: 60

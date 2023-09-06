@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Michèle D. Birtel
+title: Michèle Denise Birtel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Associate Professor of Social Clinical Psychology
 
 # Organizations/Affiliations
 organizations:

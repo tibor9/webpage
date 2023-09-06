@@ -24,10 +24,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'm.birtel@greenwich.ac.uk'
+- icon: globe
+  icon-pack: fas
+  link: https://www.michelebirtel.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/psyprofmichele
-
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=BFjGDdEAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michelebirtel/
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 

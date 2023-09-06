@@ -111,6 +111,10 @@ extensions:
   academicons:
     enable: true
 
+icon:
+  pack:
+    ai: true
+
 # Citation style
 
 publications:

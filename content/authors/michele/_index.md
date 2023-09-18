@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Michèle D. Birtel
+title: Michèle Denise Birtel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Associate Professor of Social Clinical Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -24,10 +24,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'm.birtel@greenwich.ac.uk'
+- icon: globe
+  icon-pack: fas
+  link: https://www.michelebirtel.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/psyprofmichele
-
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=BFjGDdEAAAAJ&hl=en
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/michelebirtel/
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
@@ -38,3 +46,4 @@ user_groups:
 
 # Below the line: a longer bio if you like
 ---
+For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).

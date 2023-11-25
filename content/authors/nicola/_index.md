@@ -10,7 +10,7 @@ role: Lecturer in Social Psychology
 # Organizations/Affiliations
 organizations:
 - name: UCL Institute of Education
-  url: https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fprofiles.ucl.ac.uk%2f67400&c=E,1,pYZpeM6DpFPo0TgUnnumty3LzcpyCPK1yrfnr6gfGJsi4y6OrVxSROYjoMkapGHnaBJr2pqWlLLJibKaUFCADgrHVTUPdptXZbKmPZl2prtVJRH7&typo=1
+  url: https://www.ucl.ac.uk/mental-health/people/nicola-abbott
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

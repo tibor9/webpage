@@ -13,7 +13,7 @@ organizations:
   url: "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.gold.ac.uk%2fpsychology%2fstaff%2fwest-keon%2f&c=E,1,lLHEaxX5oZFJ_cf2J3ZrZRAOGTwEiMYnt0hD7yUb1YQbb6Ie8qWuk_A7tcvYPrtP6UBqIL9G0n0kMR7dWOAY3uCvcSWdJ0Zxa3np_lHYFMRM5A7Y_Qj087xA&typo=1"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Keon West is a Professor of Social Psychology and the author of Skewed: Decoding Media Bias (2022) and The Science of Racism (2025).
+bio: "Keon West is a Professor of Social Psychology and the author of Skewed: Decoding Media Bias (2022) and The Science of Racism (2025)."
 
 # Social/Academic Networking
 # For available icons, see: https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsourcethemes.com%2facademic%2fdocs%2fpage-builder%2f%23icons&c=E,1,rhMx4X0hH0cxPtof88V3orAfzLU6RcreJhG-4YThc2BcJfj31uq6fObli0V6dUzn90iRrOs25hhHV2vULMqYTcV2vKuR2o_SCqVPHJ3NlnZtqyeM8g,,&typo=1

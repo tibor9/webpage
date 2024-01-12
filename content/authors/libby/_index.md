@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Co Chair. Libby Drury
+title: Co-Chair. Libby Drury
 # Is this the primary user of the site?
 superuser: true
 

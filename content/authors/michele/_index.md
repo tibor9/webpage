@@ -23,7 +23,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'm.birtel@greenwich.ac.uk'
+  link: 'mailto:m.d.birtel@greenwich.ac.uk'
 - icon: globe
   icon-pack: fas
   link: https://www.michelebirtel.com

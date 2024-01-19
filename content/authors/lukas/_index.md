@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lukas Wallrich
+title: Co-Chair. Lukas Wallrich
 # Is this the primary user of the site?
 superuser: true
 

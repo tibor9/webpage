@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Stefania Paolini
+title: Stefania Paolini
 # Is this the primary user of the site?
 superuser: true
 

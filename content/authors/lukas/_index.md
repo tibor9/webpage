@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lukas Wallrich
+title: Co-Chair. Lukas Wallrich
 # Is this the primary user of the site?
 superuser: true
 
@@ -46,7 +46,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Network Members
+- Network Convenors
 ---
 
 Lukas works as a Lecturer in the Birkbeck Business School. There, he teaches on organisational psychology programmes and primarily researches how workforce diversity can be harnessed to improve organisational performance. Other research interests include the effect of intergroup contact on pro-social behaviour, the development of stereotypes and implicit associations, and the credibility of current research in organisational psychology and behind.

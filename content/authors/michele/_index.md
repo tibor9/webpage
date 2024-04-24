@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chair. Michèle Denise Birtel
+title: Chair. Mich%C3%A8le Denise Birtel
 
 # Is this the primary user of the site?
 superuser: false

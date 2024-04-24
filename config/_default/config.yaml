@@ -14,7 +14,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## MODULES

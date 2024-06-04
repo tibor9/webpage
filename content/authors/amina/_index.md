@@ -10,7 +10,7 @@ role: Professor in Psychology
 # Organizations/Affiliations
 organizations:
 - name: Royal Holloway University of London
-  url: https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fpure.royalholloway.ac.uk%2fen%2fpersons%2famina-memon&c=E,1,FFUXLIVgt7dQYi7yqWs62Gjh8xRlTiRJuyegSYlLrvVK2dLsLx34SvGRMmYYy4AUQUEosr798zzV0O1bS9s33yrcDiN7KJZI3Yo553DcLyZA_RApe8kmoWU,&typo=1
+  url: https://pure.royalholloway.ac.uk/en/persons/amina-memon
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -22,26 +22,23 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:l.wallrich@bbk.ac.uk
+  link: mailto:Amina.Memon@rhul.ac.uk
 - icon: globe
   icon-pack: fas
-  link: https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.lukaswallrich.coffee&c=E,1,gub1M9RoDUVpbbOEHi9T0DIHfSaEYf7oO01HlK7hccmCv58uytJZxuzW7yLq8GUnXLAC7mJcSGdHlVJk5K-LvIgl-2M369sFuSqRZYx9Ge4Xzg,,&typo=1
+  link: https://pure.royalholloway.ac.uk/en/persons/amina-memon
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/lukaswallrich
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=T473FrYAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LukasWallrich
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/lukas-wallrich/
+  link: 
 - icon: mastodon
   icon_pack: fab
-  link: https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsciences.social%2f%40lukaswallrich&c=E,1,qJFZ5EpXejZ8UJ_SQd_LTW8PFmcaODieRx28-HJcjoasrX5KkB1jsoquQgbUkglGS6ql0tbFh4YGlzhh3BUMGzzhTCZtBEyavhIjYhF5tXrop2_yefJDEevgng,,&typo=1
+  link: 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

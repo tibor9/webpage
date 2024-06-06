@@ -10,7 +10,10 @@ people <- list(
   # list(name = "Nina Briggs", first_name = "Nina", role = "Research Fellow", institution = "Queen’s University Belfast", url = "https://www.qub.ac.uk", email = "n.briggs@qub.ac.uk"),
   # list(name = "Sylvie Graf", first_name = "Sylvie", role = "Professor", institution = "Czech Academy of Sciences", url = "https://www.cas.cz", email = "s.graf@cas.cz"),
   # list(name = "Maria-Therese Friehs", first_name = "Maria-Therese", role = "Research Associate", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "maria.friehs@fernuni-hagen.de"),
-  # list(name = "Laura Joyner", first_name = "Laura", role = "Research Fellow", institution = "Middlesex University", url = "https://www.mdx.ac.uk", email = "l.joyner@mdx.ac.uk")
+  # list(name = "Laura Joyner", first_name = "Laura", role = "Research Fellow", institution = "Middlesex University", url = "https://www.mdx.ac.uk", email = "l.joyner@mdx.ac.uk"),
+  # list(name = "Francesca Prati", first_name = "Francesca", role = "Associate Professor of Social Psychology", institution = "University of Bologna", url = "https://www.unibo.it/sitoweb/francesca.prati", email = "francesca.prati@unibo.it"),
+  # list(name = "Ulrich Wagner", first_name = "Ulrich", role = "Professor of Social Psychology", institution = "University of Marburg", url = "https://www.uni-marburg.de/de/fb04/team-cohrs/team/ulrich-wagner", email = "Wagner1@staff.uni-marburg.de"),
+  # list(name = "Maarten van Zalk", first_name = "Maarten", role = "Professor of Developmental Psychology", institution = "University of Osnabrück", url = "https://www.imis.uni-osnabrueck.de/personen/imis_mitglieder/van_zalk_maarten.html", email = "mavanzalk@uni-osnabrueck.de"),
   list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
 )
 

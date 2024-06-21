@@ -11,16 +11,19 @@ people <- list(
   # list(name = "Sylvie Graf", first_name = "Sylvie", role = "Professor", institution = "Czech Academy of Sciences", url = "https://www.cas.cz", email = "s.graf@cas.cz"),
   # list(name = "Maria-Therese Friehs", first_name = "Maria-Therese", role = "Research Associate", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "maria.friehs@fernuni-hagen.de"),
   # list(name = "Laura Joyner", first_name = "Laura", role = "Research Fellow", institution = "Middlesex University", url = "https://www.mdx.ac.uk", email = "l.joyner@mdx.ac.uk"),
-  # list(name = "Francesca Prati", first_name = "Francesca", role = "Associate Professor of Social Psychology", institution = "University of Bologna", url = "https://www.unibo.it/sitoweb/francesca.prati", email = "francesca.prati@unibo.it"),
-  # list(name = "Ulrich Wagner", first_name = "Ulrich", role = "Professor of Social Psychology", institution = "University of Marburg", url = "https://www.uni-marburg.de/de/fb04/team-cohrs/team/ulrich-wagner", email = "Wagner1@staff.uni-marburg.de"),
-  # list(name = "Maarten van Zalk", first_name = "Maarten", role = "Professor of Developmental Psychology", institution = "University of Osnabrück", url = "https://www.imis.uni-osnabrueck.de/personen/imis_mitglieder/van_zalk_maarten.html", email = "mavanzalk@uni-osnabrueck.de"),
+  #list(name = "Francesca Prati", first_name = "Francesca", role = "Associate Professor of Social Psychology", institution = "University of Bologna", url = "https://www.unibo.it/sitoweb/francesca.prati", email = "francesca.prati@unibo.it"),
+  #list(name = "Ulrich Wagner", first_name = "Ulrich", role = "Professor of Social Psychology", institution = "University of Marburg", url = "https://www.uni-marburg.de/de/fb04/team-cohrs/team/ulrich-wagner", email = "Wagner1@staff.uni-marburg.de"),
+  #list(name = "Maarten van Zalk", first_name = "Maarten", role = "Professor of Developmental Psychology", institution = "University of Osnabrück", url = "https://www.imis.uni-osnabrueck.de/personen/imis_mitglieder/van_zalk_maarten.html", email = "mavanzalk@uni-osnabrueck.de"),
+  #list(name = "Mathias Kauff", first_name = "Mathias", role = "Professor for Social Psychology", institution = "Medican School Hamburg", url = "https://www.medicalschool-hamburg.de/ueber-uns/team/team-fakultaet-humanwissenschaften/mathias-kauff/", email = "mathias.kauff@medicalschool-hamburg.de"),
+  #list(name = "Danielle Blaylock", first_name = "Danielle", role = "Senior Lecturer", institution = "Queen’s University Belfast", url = "https://pure.qub.ac.uk/en/persons/danielle-blaylock", email = "d.blaylock@qub.ac.uk"),
   list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
 )
+
 
 # Function to create directory and write _index.md
 create_profile <- function(person) {
   dir.create(tolower(person$first_name), showWarnings = FALSE)
-  file_path <- file.path(tolower(person$first_name), "_index.md")
+  file_path <- file.path("content", "authors", tolower(person$first_name), "_index.md")
   content <- glue::glue(
     "---\n",
     "# Display name\n",
@@ -55,6 +58,7 @@ create_profile <- function(person) {
     "---\n"
   )
   writeLines(content, file_path)
+  file.copy(file.path("content", "authors", "avatar.jpg"), file.path("content", "authors", tolower(person$first_name), "avatar.jpg"))
 }
 
 # Create profiles for all people

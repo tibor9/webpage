@@ -16,6 +16,16 @@ def fetch_publications(orcid, email):
         return response.json()['message']['items']
     return []
 
+def format_author_list(authors):
+    if len(authors) > 1:
+        # Join all but the last author with a comma, then add the last author with an ampersand
+        authors_str = ', '.join(authors[:-1]) + ' & ' + authors[-1]
+    else:
+        # If there's only one author, no need for a comma or an ampersand
+        authors_str = authors[0] if authors else ''
+    return authors_str
+
+
 def format_citation(items):
     print('Generating reference list')
     # Remove duplicates and sort by creation date
@@ -50,7 +60,7 @@ def format_citation(items):
         if not authors:
             continue
         
-        authors_str = ', '.join(authors)
+        authors_str = format_author_list(authors)
         title = item.get('title', [''])[0]
         container_title = item.get('container-title', [''])[0] if item.get('container-title', ['']) else ''
         if not container_title:
@@ -58,8 +68,11 @@ def format_citation(items):
         container_format = f"*{container_title}*" if container_title else ''
         year = item['created']['date-parts'][0][0]
         doi_url = f"https://doi.org/{item['DOI']}"
-        entry = f"- {authors_str} ({year}). **{title}**. {container_format} [{doi_url}]({doi_url})"
-
+        
+        # Ensure the title ends with exactly one period
+        final_title = title if title.endswith('.') else title + '.'
+        entry = f"- {authors_str} ({year}). **{final_title}** {container_format} [{doi_url}]({doi_url})"
+        
         # Decide which list to append to based on title keywords
         if keyword_pattern.search(title):
             contact_research.append(entry)
@@ -104,6 +117,7 @@ def main(email, orcid_url, additions_url):
             file.write("\n".join(contact_research))
             file.write("\n\n# Other Research by Network Members\n")
             file.write("\n".join(other_research))
+            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely correct).")
             
 if __name__ == "__main__":
     main('lukas.wallrich@gmail.com', 

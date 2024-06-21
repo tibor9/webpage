@@ -10,6 +10,6 @@ main:
   - name: Contact
     url: "#contact"
     weight: 60
-  - name: Publication
+  - name: Publications
     url: "publication_list"
     weight: 60

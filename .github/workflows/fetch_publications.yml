@@ -1,0 +1,34 @@
+name: Fetch Recent Publications
+
+on:
+  schedule:
+    # Schedule to run every 48 hours
+    - cron: '0 */48 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-process:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests pandas
+
+    - name: Fetch and Process ORCiD Publications
+      run: python fetch_publications.py
+
+    - name: Commit and Push Results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update publications list" -a || echo "No changes to commit"
+        git push

@@ -117,7 +117,7 @@ def main(email, orcid_url, additions_url):
             file.write("\n".join(contact_research))
             file.write("\n\n# Other Research by Network Members\n")
             file.write("\n".join(other_research))
-            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely correct).")
+            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely accurate).")
             
 if __name__ == "__main__":
     main('lukas.wallrich@gmail.com', 

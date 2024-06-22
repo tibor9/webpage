@@ -9,7 +9,7 @@ role: Professor for Social Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Medican School Hamburg
+- name: Medical School Hamburg
   url: https://www.medicalschool-hamburg.de/ueber-uns/team/team-fakultaet-humanwissenschaften/mathias-kauff/
 
 # Short bio (displayed in user profile at end of posts)

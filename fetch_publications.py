@@ -121,7 +121,7 @@ def main(email, orcid_url, additions_url):
         contact_research, other_research = format_citation(all_items, orcid_df['Last name'])
         with open("content/publication_list/_index.md", "w") as file:
             file.write("# Contact Research by Network Members\n")
-            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.")
+            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.\n\n")
             file.write("\n\n".join(contact_research))
             file.write("\n\n# Other Research by Network Members\n")
             file.write("\n".join(other_research))

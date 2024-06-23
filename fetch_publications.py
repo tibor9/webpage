@@ -26,7 +26,7 @@ def format_author_list(authors):
     return authors_str
 
 
-def format_citation(items):
+def format_citation(items, group_members):
     print('Generating reference list')
     # Remove duplicates and sort by creation date
     unique_items = {item['DOI']: item for item in items}
@@ -52,11 +52,18 @@ def format_citation(items):
     for item in sorted_items:
         authors = []
         for author in item.get('author', []):
-            if 'family' in author:
-                authors.append(f"{author['family']}, {' '.join([i[0]+'.' for i in author.get('given', '').split()])}")
-            elif 'name' in author:
-                authors.append(f"{author['name']}")
-        
+          if 'family' in author:
+              family_name = author['family']
+              author_str = f"{family_name}, {' '.join([i[0]+'.' for i in author.get('given', '').split()])}"
+              if family_name in group_members.values:
+                  author_str = f"<span style='color:#3F50B5'>{author_str}</span>"
+              authors.append(author_str)
+          elif 'name' in author:
+              name = author['name']
+              if name in group_members.values:
+                  name = f"<span style='color:#3F50B5'>{name}</span>"
+              authors.append(name)
+
         if not authors:
             continue
         
@@ -111,13 +118,13 @@ def main(email, orcid_url, additions_url):
     #    json.dump(all_items, final)
     
     if all_items:
-        contact_research, other_research = format_citation(all_items)
+        contact_research, other_research = format_citation(all_items, orcid_df['Last name'])
         with open("content/publication_list/_index.md", "w") as file:
             file.write("# Contact Research by Network Members\n")
-            file.write("\n".join(contact_research))
+            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.")
+            file.write("\n\n".join(contact_research))
             file.write("\n\n# Other Research by Network Members\n")
             file.write("\n".join(other_research))
-            file.write("\n\n Note that this list is automatically generated and may not be exhaustive (or entirely accurate).")
             
 if __name__ == "__main__":
     main('lukas.wallrich@gmail.com', 

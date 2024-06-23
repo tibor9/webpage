@@ -38,4 +38,4 @@ design:
   columns: '1'
 ---
 
-Check out our recent announcements.
+Click [here](/post/) to see all announcements.

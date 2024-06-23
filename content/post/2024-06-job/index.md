@@ -1,5 +1,5 @@
 ---
-title: Job opportunity: post-doc on structural and psychological antecedents of intergroup contac
+title: "Job opportunity: post-doc on structural and psychological antecedents of intergroup contact"
 date: 2024-06-15
 tags: []
 categories: 

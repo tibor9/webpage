@@ -1,7 +1,9 @@
 # Contact Research by Network Members
 
 
- Note that this list is automatically generated and may not be exhaustive (or entirely accurate).- <span style='color:#3F50B5'>Friehs, M.</span>, <span style='color:#3F50B5'>Schäfer, S. J.</span> & Christ, O. (2024). **Does intergroup contact affect political attitudes and behaviours? - A longitudinal mediation analysis using the Estudio Longitudinal Social de Chile.** *PsyArXiv* [https://doi.org/10.31234/osf.io/2mzdq](https://doi.org/10.31234/osf.io/2mzdq)
+ Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.
+
+- <span style='color:#3F50B5'>Friehs, M.</span>, <span style='color:#3F50B5'>Schäfer, S. J.</span> & Christ, O. (2024). **Does intergroup contact affect political attitudes and behaviours? - A longitudinal mediation analysis using the Estudio Longitudinal Social de Chile.** *PsyArXiv* [https://doi.org/10.31234/osf.io/2mzdq](https://doi.org/10.31234/osf.io/2mzdq)
 
 - <span style='color:#3F50B5'>Yetkili, O.</span>, Agdelen, N., Vural, S. & Kostyuk, E. (2024). **The effects of identity (subordinate vs. superordinate) salience on intergroup attitudes, anxiety, and contact intentions in North Cyprus.** *Peace and Conflict: Journal of Peace Psychology* [https://doi.org/10.1037/pac0000747](https://doi.org/10.1037/pac0000747)
 

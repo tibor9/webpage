@@ -11,7 +11,7 @@ main:
     url: "#contact"
     weight: 60
   - name: Announcements
-    url: "#post"
+    url: "#announcements"
     weight: 80
   - name: Publications
     url: "publication_list"

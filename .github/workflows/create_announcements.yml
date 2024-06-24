@@ -17,11 +17,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - uses: r-lib/actions/setup-r@v2
-        with:
-            r-version: '3.5.3'
+      - name: Setup r2u
+        uses: eddelbuettel/github-actions/r2u-setup@master
 
       - name: Package Dependencies
+
         run: Rscript -e 'install.packages(c("googlesheets4", "httr", "digest"))'
 
       - name: Create announcements

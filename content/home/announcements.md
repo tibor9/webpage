@@ -1,41 +1,41 @@
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true  # This file represents a page section.
 
-# Put Your Section Options Here (title, background, etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 60
+
 title: Recent Announcements
-subtitle: ''
-
-# Position of this section on the page
-weight: 15
+subtitle:
 
 content:
-  # Filter content to display
+  # Page type to display. E.g. post, talk, publication...
+  page_type: post
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
   filters:
-    # The folders to display content from
-    folders:
-      - post
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
-    featured_only: false
+    author: ""
+    category: ""
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+    publication_type: ""
   # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
   offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
-design:
-  # Choose a listing view
-  view: compact
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
----
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
-Click [here](/post/) to see all announcements.
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
+---

@@ -105,7 +105,7 @@ create_post <- function(row) {
   slug_folder <- file.path("content/post", as.character(row["Slug"]))
   dir.create(slug_folder, showWarnings = FALSE, recursive = TRUE)
 
-  post_file <- file.path(slug_folder, "_index.md")
+  post_file <- file.path(slug_folder, "index.md")
   writeLines(post_content, post_file)
 
   message("Current slug:" , row["Slug"])

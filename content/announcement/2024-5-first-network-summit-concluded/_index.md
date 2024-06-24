@@ -6,6 +6,7 @@ categories:
   - events
   - news
 authors: ["Lukas Wallrich"]
+type: "announcement"
 ---
 
 🌟 We just completed the inaugural summit of the new international Contact Research Network - thanks to the amazing colleagues who spent the last 2 days with us in London at Birkbeck!🌟  

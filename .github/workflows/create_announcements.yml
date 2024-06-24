@@ -1,10 +1,8 @@
 name: Create announcements
 on:
-  # run on any push
   schedule:
     # Schedule to run every hour
     - cron: '0 */1 * * *'
-
   # run on request (via button in actions menu)
   workflow_dispatch:
 
@@ -19,14 +17,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup
+      - name: Setup R
         uses: eddelbuettel/github-actions/r-ci-setup@master
 
-      - name: Push to shiny.io
+      - name: Install R packages and Run Script
         env:
           GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          Rscript -e "install.packages(c('googlesheets4', 'httr', 'digest')"
+          Rscript -e "install.packages(c('googlesheets4', 'httr', 'digest'))"
           Rscript create_announcements.R
 
       - name: Commit and Push Results

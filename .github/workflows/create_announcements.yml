@@ -2,7 +2,7 @@ name: Create announcements
 on:
   schedule:
     # Schedule to run every hour
-    - cron: '0 */1 * * *'
+    - cron: '10,25,40,55 * * * *'
   # run on request (via button in actions menu)
   workflow_dispatch:
 
@@ -17,14 +17,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup R
-        uses: eddelbuettel/github-actions/r-ci-setup@master
+      - name: Setup r2u
+        uses: eddelbuettel/github-actions/r2u-setup@master
 
-      - name: Install R packages and Run Script
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      - name: Package Dependencies
+
+        run: Rscript -e 'install.packages(c("googlesheets4", "httr", "digest"))'
+
+      - name: Create announcements
         run: |
-          Rscript -e "install.packages(c('googlesheets4', 'httr', 'digest'))"
           Rscript create_announcements.R
 
       - name: Commit and Push Results

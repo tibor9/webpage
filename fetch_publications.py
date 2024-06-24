@@ -97,6 +97,7 @@ def format_citation(items, group_members):
         
         # Ensure the title ends with exactly one period
         final_title = title if title.endswith(('.', '!', '?')) else title + '.'
+        
         entry = f"- {authors_str} ({year}). **{final_title}** {container_format} [{doi_url}]({doi_url})"
         
         # Decide which list to append to based on title keywords
@@ -151,4 +152,4 @@ def main(email, orcid_url, additions_url):
 if __name__ == "__main__":
     main('lukas.wallrich@gmail.com', 
       'https://docs.google.com/spreadsheets/d/e/2PACX-1vSUimHSgWwFYMjJRGacDTz_tvRxIjWEq5zn780Ow7-hUnze2riCZMQ9ur_LnlWneLVY2a0Mh3Qoa2V_/pub?gid=1836176751&single=true&output=csv',
-      'https://docs.google.com/spreadsheets/d/e/2PACX-1vSUimHSgWwFYMjJRGacDTz_tvRxIjWEq5zn780Ow7-hUnze2riCZMQ9ur_LnlWneLVY2a0Mh3Qoa2V_/pub?gid=173603884&single=true&output=csv')
+      'https://docs.google.com/spreadsheets/d/e/2PACX-1vQbvk04Bi6A5a3BHxZ-b4FDZubqUxXR7wUnC33PMjnXmVhcDf40otCapWI9ioN2hLalDGqI1B-K7Z8t/pub?output=csv')

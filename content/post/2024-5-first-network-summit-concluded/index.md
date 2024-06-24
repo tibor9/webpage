@@ -1,6 +1,6 @@
 ---
 title: "First Network Summit Concluded"
-date: 2024-05-24
+date: 2024-05-30
 tags: []
 categories:
   - events

@@ -11,9 +11,7 @@ The Durham Psychology Department got approval to advertise the position of an As
    
   To attract many applications from excellent researchers around the globe, please help us to advertise this post widely by using the link below when publicising the vacancy via your networks, societies, and contacts. To help us with the search report, please drop Carolyn a brief email listing your networks and contacts you have used.
    
-  Assistant Professor in Psychology (Research & Education)  (Job Number: 24000984)
-  Open Date 03/06/2024
-  Closing Date 01/07/2024 
+  Assistant Professor in Psychology (Research & Education)  (Job Number: 24000984), Open Date 03/06/2024, Closing Date 01/07/2024. 
   
   Presentations from shortlisted candidates are scheduled for Tuesday, 13th August.
   Interviews are scheduled for Wednesday, 14th August.

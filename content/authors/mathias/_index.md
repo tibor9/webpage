@@ -5,7 +5,7 @@ title: Mathias Kauff
 superuser: true
 
 # Role/position
-role: Professor for Social Psychology
+role: Professor of Social Psychology
 
 # Organizations/Affiliations
 organizations:

@@ -7,7 +7,7 @@ categories:
 authors: ["Lukas Wallrich"]
 ---
 
-🌟 We just completed the ***inaugural summit*** of the new ***international Contact Research Network*** - thanks to the amazing colleagues who spent the last 2 days with us in London at Birkbeck!🌟
+🌟 We just completed the **inaugural summit** of the new **international Contact Research Network** - thanks to the amazing colleagues who spent the last 2 days with us in London at Birkbeck!🌟
   
   Our conversations highlighted some priorities and opportunities for future research👇
   💡Contact interventions can promote understanding in schools (Lindsey) and at work (Libby), and reduce political polarisation (Michèle).

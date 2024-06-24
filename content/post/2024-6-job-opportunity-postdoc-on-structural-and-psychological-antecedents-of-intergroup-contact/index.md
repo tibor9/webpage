@@ -7,7 +7,7 @@ categories:
 authors: ["Rose Meleady"]
 ---
 
-An exciting opportunity has arisen for a Postdoctoral Research Associate to join the UEA School of Psychology to conduct studies on the drivers of intergroup contact engagement. In that role, you would work with Rose Meleady, Shelley McKeown-Jones, George Leckie and Belong, the Social Cohesion and Integration Charity. The project aims to identify structural and psychological antecedents of intergroup contact
+An exciting opportunity has arisen for a Postdoctoral Research Associate to join the UEA School of Psychology to conduct studies on the drivers of intergroup contact engagement. In that role, you would work with **Rose Meleady**, Shelley McKeown-Jones, George Leckie and Belong, the Social Cohesion and Integration Charity. The project aims to identify structural and psychological antecedents of intergroup contact
   
   This full-time post is available from 1 October 2024 on a fixed-term basis for 36 months. For details, check the job posting.
   

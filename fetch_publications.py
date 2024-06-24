@@ -4,13 +4,14 @@ from datetime import datetime
 import re
 #import json
 
+list_duration = 3 # how many years should be included prior to the current year
 
 def download_csv(url):
     return pd.read_csv(url)
 
 def fetch_publications(orcid, email):
     current_year = datetime.now().year
-    url = f"https://api.crossref.org/works?filter=orcid:{orcid},from-pub-date:{current_year-1}-01-01,until-pub-date:{current_year}-12-31&mailto={email}&select=DOI,title,author,container-title,group-title,created"
+    url = f"https://api.crossref.org/works?filter=orcid:{orcid},from-pub-date:{current_year-list_duration-1}-01-01,until-pub-date:{current_year}-12-31&mailto={email}&select=DOI,title,author,container-title,group-title,created,published,published-online,published-print"
     response = requests.get(url)
     if response.status_code == 200:
         return response.json()['message']['items']
@@ -25,6 +26,20 @@ def format_author_list(authors):
         authors_str = authors[0] if authors else ''
     return authors_str
 
+def get_year(item):
+    fields = ['published-print', 'published-online', 'published', 'created']
+    for field in fields:
+        if field in item and 'date-parts' in item[field] and item[field]['date-parts'][0][0]:
+            year = item[field]['date-parts'][0][0]
+            if re.match(r'^\d{4}$', str(year)):
+                return year
+    return None 
+
+def extract_year_ref(reference):
+    match = re.search(r'\((\d{4})\)', reference)
+    if match:
+        return int(match.group(1))
+    return None
 
 def format_citation(items, group_members):
     print('Generating reference list')
@@ -73,11 +88,15 @@ def format_citation(items, group_members):
         if not container_title:
             container_title = item.get('group-title', ['']) if item.get('group-title', ['']) else ''
         container_format = f"*{container_title}*" if container_title else ''
-        year = item['created']['date-parts'][0][0]
+        year = get_year(item)
+        
+        if year < datetime.now().year - list_duration:
+            continue
+        
         doi_url = f"https://doi.org/{item['DOI']}"
         
         # Ensure the title ends with exactly one period
-        final_title = title if title.endswith('.') else title + '.'
+        final_title = title if title.endswith(('.', '!', '?')) else title + '.'
         entry = f"- {authors_str} ({year}). **{final_title}** {container_format} [{doi_url}]({doi_url})"
         
         # Decide which list to append to based on title keywords
@@ -86,6 +105,9 @@ def format_citation(items, group_members):
         else:
             other_research.append(entry)
     
+    contact_research = sorted(contact_research, key=extract_year_ref, reverse=True)
+    other_research = sorted(other_research, key=extract_year_ref, reverse=True)
+
     return contact_research, other_research
   
 def process_manual_additions(all_items, addition_df, email):

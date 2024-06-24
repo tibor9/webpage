@@ -1,11 +1,34 @@
-# Load necessary libraries
 library(googlesheets4)
 library(httr)
+library(digest)
+
+# Define file path for hash
+hash_file <- "gs_announcement_hash.txt"
 
 # Authenticate and read the Google Sheet
 sheet_url <- "https://docs.google.com/spreadsheets/d/19ylN6fWPO_aMLx9pPBacXodXKEih42iNmceInhMT6Zg/edit?gid=0#gid=0"
 googlesheets4::gs4_deauth()
 data <- read_sheet(sheet_url)
+
+# Compute new hash
+new_hash <- digest(data, algo = "md5")
+
+# Read old hash if exists
+old_hash <- if (file.exists(hash_file)) readLines(hash_file) else NULL
+
+# Abort if data hasn't changed
+if (!is.null(old_hash) && new_hash == old_hash) {
+  if (!interactive()) {
+    message("Data hasn't changed. Exiting.")
+    quit(save = "no", status = 0)
+  } else {
+    stop("Data hasn't changed. Exiting.")
+  }
+
+}
+
+# Save new hash
+writeLines(new_hash, hash_file)
 
 # Filter for show = yes
 filtered_data <- data[data$Show == "yes", ]

@@ -1,7 +1,6 @@
-# Contact Research by Network Members
+Below you can find our most recent publications relating to (1) contact and (2) other research. Note that this list of publications is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.
 
-
- Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.
+# (1) Contact Research by Network Members
 
 - <span style='color:#3F50B5'>Friehs, M.</span>, <span style='color:#3F50B5'>Schäfer, S. J.</span> & Christ, O. (2024). **Does intergroup contact affect political attitudes and behaviours? - A longitudinal mediation analysis using the Estudio Longitudinal Social de Chile.** *PsyArXiv* [https://doi.org/10.31234/osf.io/2mzdq](https://doi.org/10.31234/osf.io/2mzdq)
 
@@ -113,7 +112,7 @@
 
 - Cocco, V. M., Bisagno, E., Di Bernardo, G. A., Cadamuro, A., Riboldi, S. D., Crapolicchio, E., Trifiletti, E., <span style='color:#3F50B5'>Stathi, S.</span> & Vezzali, L. (2021). **Comparing story reading and video watching as two distinct forms of vicarious contact: An experimental intervention among elementary school children.** *British Journal of Social Psychology* [https://doi.org/10.1111/bjso.12404](https://doi.org/10.1111/bjso.12404)
 
-# Other Research by Network Members
+# (2) Other Research by Network Members
 - Kirkland, K., Van Lange, P. A. M., Gorenz, D., Blake, K., Amiot, C. E., Ausmees, L., Baguma, P., Barry, O., Becker, M., Bilewicz, M., Boonyasiriwat, W., Booth, R. W., Castelain, T., Costantini, G., Dimdins, G., Espinosa, A., Finchilescu, G., Fischer, R., Friese, M., Gómez, Á., González, R., Goto, N., Halama, P., Hurtado-Parrado, C., Ilustrisimo, R. D., Jiga-Boy, G. M., Kuppens, P., Loughnan, S., Mastor, K. A., McLatchie, N., Novak, L. M., Onyekachi, B. N., Rizwan, M., Schaller, M., Serafimovska, E., Suh, E. M., Swann Jr, W. B., Tong, E. M. W., Torres, A., <span style='color:#3F50B5'>Turner, R. N.</span>, Vauclair, C., Vinogradov, A., Wang, Z., Yeung, V. W. L. & Bastian, B. (2024). **High economic inequality is linked to greater moralization.** *PNAS Nexus* [https://doi.org/10.1093/pnasnexus/pgae221](https://doi.org/10.1093/pnasnexus/pgae221)
 - Moon, C. & <span style='color:#3F50B5'>Travaglino, G. A.</span> (2024). **The association between perceived injustice and political trust: Testing a dual‐pathway model through anger and patriotism across four countries.** *Political Psychology* [https://doi.org/10.1111/pops.13005](https://doi.org/10.1111/pops.13005)
 - Nagy, T., Hergert, J., Elsherif, M. M., <span style='color:#3F50B5'>Wallrich, L.</span>, Schmidt, K., Waltzer, T., Payne, J. W., Gjoneska, B., Seetahul, Y., Wang, Y. A., Scharfenberg, D., Tyson, G., Yang, Y., Skvortsova, A., Alarie, S., Graves, K. A., Sotola, L. K., Moreau, D. & Rubínová, E. (2024). **Bestiary of Questionable Research Practices in Psychology.** *PsyArXiv* [https://doi.org/10.31234/osf.io/fhk98](https://doi.org/10.31234/osf.io/fhk98)

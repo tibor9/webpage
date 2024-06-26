@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Co-Chair. Libby Drury
+title: Libby Drury
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Senior Lecturer in Organisational Psychology
+role: Network Co-Chair. Senior Lecturer in Organisational Psychology
 
 # Organizations/Affiliations
 organizations:

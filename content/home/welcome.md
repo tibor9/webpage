@@ -20,8 +20,8 @@ design:
 
 <br>
 
-We bring together intergroup contact researchers from
-the UK and beyond to discuss their latest work, exchange ideas and strike up
+We bring together intergroup contact researchers from countries around the world 
+to discuss their latest work, exchange ideas and strike up
 collaborations. See below to discover who is involved, and contact us if you 
 are interested in joining.
 

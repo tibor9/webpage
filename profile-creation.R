@@ -16,13 +16,14 @@ people <- list(
   #list(name = "Maarten van Zalk", first_name = "Maarten", role = "Professor of Developmental Psychology", institution = "University of Osnabrück", url = "https://www.imis.uni-osnabrueck.de/personen/imis_mitglieder/van_zalk_maarten.html", email = "mavanzalk@uni-osnabrueck.de"),
   #list(name = "Mathias Kauff", first_name = "Mathias", role = "Professor for Social Psychology", institution = "Medican School Hamburg", url = "https://www.medicalschool-hamburg.de/ueber-uns/team/team-fakultaet-humanwissenschaften/mathias-kauff/", email = "mathias.kauff@medicalschool-hamburg.de"),
   #list(name = "Danielle Blaylock", first_name = "Danielle", role = "Senior Lecturer", institution = "Queen’s University Belfast", url = "https://pure.qub.ac.uk/en/persons/danielle-blaylock", email = "d.blaylock@qub.ac.uk"),
-  list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
+  #list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
+  list(name = "Ditte Barnoth", first_name = "Ditte", role = "PhD student", institution = "University of Newcastle (Australia)", url = "https://www.linkedin.com/in/ditte-b-80876b60/", email = "ditte.barnoth@uon.edu.au")
 )
 
 
 # Function to create directory and write _index.md
 create_profile <- function(person) {
-  dir.create(tolower(person$first_name), showWarnings = FALSE)
+  dir.create(file.path("content", "authors", tolower(person$first_name)))
   file_path <- file.path("content", "authors", tolower(person$first_name), "_index.md")
   content <- glue::glue(
     "---\n",

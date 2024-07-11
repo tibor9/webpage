@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Chair. Michèle Denise Birtel
+title: Michèle Denise Birtel
 url: michele
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor of Social Clinical Psychology
+role: Network Chair. Associate Professor of Social Clinical Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -28,9 +28,6 @@ social:
 - icon: globe
   icon-pack: fas
   link: https://www.michelebirtel.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/psyprofmichele
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=BFjGDdEAAAAJ&hl=en

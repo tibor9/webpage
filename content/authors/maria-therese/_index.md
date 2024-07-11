@@ -10,7 +10,7 @@ role: Research Associate
 # Organizations/Affiliations
 organizations:
 - name: University of Hagen
-  url: https://www.fernuni-hagen.de
+  url: https://www.fernuni-hagen.de/psychologische-methodenlehre/team/maria-therese.friehs.shtml
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,9 +23,28 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:maria.friehs@fernuni-hagen.de
-
+- icon: globe
+  icon-pack: fas
+  link: https://www.fernuni-hagen.de/psychologische-methodenlehre/team/maria-therese.friehs.shtml
+  
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Network Members
 ---
+
+Maria-Therese Friehs is postdoctoral researcher at the work unit for
+psychological methods and evaluation at the FernUniversität in Hagen,
+Germany. She is a passionate intergroup contact researcher, focussing
+mostly on how intergroup contact evolves and affects attitudes over
+time, how contact is experienced in everyday life, and how contact
+experiences are linked to basic psychological needs. Therese is also
+interested in social perception research, mainly concerning the
+assessment of stereotypes and prejudice. She enjoys applying advanced
+quantitative analytical models and doing longitudinal data analysis and
+scale construction. She also did a lot of large-scale secondary data
+analysis and re-analyses of published data.
+
+Together with Mathias Kauff and Oliver Christ, Therese is one of the
+organizers of the EASP small group meeting on intergroup contact in
+Hamburg in August 2024.

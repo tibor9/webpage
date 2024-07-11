@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Welcome to the Contact Research Network
+  Welcome to the International Contact Research Network
 hero_media: home.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,8 +20,8 @@ design:
 
 <br>
 
-We bring together intergroup contact researchers from
-the UK and beyond to discuss their latest work, exchange ideas and strike up
+We bring together intergroup contact researchers from countries around the world 
+to discuss their latest work, exchange ideas and strike up
 collaborations. See below to discover who is involved, and contact us if you 
 are interested in joining.
 

@@ -5,7 +5,7 @@ title: Nicola Abbott
 superuser: true
 
 # Role/position
-role: Lecturer in Social Psychology
+role: Associate Professor in Social Psychology
 
 # Organizations/Affiliations
 organizations:

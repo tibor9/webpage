@@ -18,7 +18,8 @@ people <- list(
   #list(name = "Danielle Blaylock", first_name = "Danielle", role = "Senior Lecturer", institution = "Queen’s University Belfast", url = "https://pure.qub.ac.uk/en/persons/danielle-blaylock", email = "d.blaylock@qub.ac.uk"),
   #list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
   #list(name = "Shelley McKeown Jones", first_name = "Shelley", role = "Professor of Social Psychology", institution = "University of Oxford", url = "https://www.psy.ox.ac.uk/people/shelley-mckeown-jones", email = "shelley.mckeownjones@psy.ox.ac.uk")
-  list(name = "Linda Tropp", first_name = "Linda", role = "Professor of Social Psychology", institution = "University of Massachusetts Amherst", url = "www.lindatropp.com", email = "tropp@umass.edu")
+  #list(name = "Linda Tropp", first_name = "Linda", role = "Professor of Social Psychology", institution = "University of Massachusetts Amherst", url = "www.lindatropp.com", email = "tropp@umass.edu")
+list(name = "Tabea Hässler", first_name = "Tabea", role = "Senior Research Associate", institution = "University of Zürich", url = "https://www.psychology.uzh.ch/en/areas/sob/sozpsy/Team/thaessler.html", email = "tabea.haessler@uzh.ch")
 )
 
 # Function to create directory and write _index.md

@@ -17,10 +17,11 @@ people <- list(
   #list(name = "Mathias Kauff", first_name = "Mathias", role = "Professor for Social Psychology", institution = "Medican School Hamburg", url = "https://www.medicalschool-hamburg.de/ueber-uns/team/team-fakultaet-humanwissenschaften/mathias-kauff/", email = "mathias.kauff@medicalschool-hamburg.de"),
   #list(name = "Danielle Blaylock", first_name = "Danielle", role = "Senior Lecturer", institution = "Queen’s University Belfast", url = "https://pure.qub.ac.uk/en/persons/danielle-blaylock", email = "d.blaylock@qub.ac.uk"),
   #list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
-  #list(name = "Shelley McKeown Jones", first_name = "Shelley", role = "Professor of Social Psychology", institution = "University of Oxford", url = "https://www.psy.ox.ac.uk/people/shelley-mckeown-jones", email = "shelley.mckeownjones@psy.ox.ac.uk")
-  #list(name = "Linda Tropp", first_name = "Linda", role = "Professor of Social Psychology", institution = "University of Massachusetts Amherst", url = "www.lindatropp.com", email = "tropp@umass.edu")
-list(name = "Tabea Hässler", first_name = "Tabea", role = "Senior Research Associate", institution = "University of Zürich", url = "https://www.psychology.uzh.ch/en/areas/sob/sozpsy/Team/thaessler.html", email = "tabea.haessler@uzh.ch")
-)
+  #list(name = "Ditte Barnoth", first_name = "Ditte", role = "PhD student", institution = "University of Newcastle (Australia)", url = "https://www.linkedin.com/in/ditte-b-80876b60/", email = "ditte.barnoth@uon.edu.au")
+  list(name = "Chloe Bracegirdle", first_name = "Chloe", role = "British Academy Postdoctoral Fellow", institution = "University of Oxford", url = "https://www.nuffield.ox.ac.uk/people/profiles/chloe-bracegirdle/", email = "chloe.bracegirdle@sociology.ox.ac.uk"),
+  list(name = "Olivia Spiegler", first_name = "Olivia", role = "Postdoctoral Researcher", institution = "University of Oxford", url = "https://www.nuffield.ox.ac.uk/people/profiles/olivia-spiegler/", email = "olivia.spiegler@nuffield.ox.ac.uk <olivia.spiegler@nuffield.ox.ac.uk>")
+  )
+
 
 # Function to create directory and write _index.md
 create_profile <- function(person) {

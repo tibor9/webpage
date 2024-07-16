@@ -1,10 +1,7 @@
-<!-- layouts/people/list.html -->
 {{ define "main" }}
 <h1>People</h1>
-{{ $people := .Pages }}
-{{ $people := $people | sort "Params.last_name" }}
 <ul>
-  {{ range $people }}
+  {{ range .Pages }}
     <li>{{ .Params.first_name }} {{ .Params.last_name }}</li>
   {{ end }}
 </ul>

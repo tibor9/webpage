@@ -18,8 +18,7 @@ content:
   user_groups:
   - Network Convenors
   - Network Members
-  # Sort people by last name
-    sort_by: last_name
+  sort_by: Params.last_name
 design:
   show_interests: false
   show_role: true

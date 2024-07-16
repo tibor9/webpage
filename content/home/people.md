@@ -11,8 +11,8 @@ content:
   # Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Network Convenors 
-sort_by: Params.last_name
-sort_ascending: true
+# Sort people by last name
+sort_by = "last_name"
 design:
   # Show user's social networking links? (true/false)
   show_social: true

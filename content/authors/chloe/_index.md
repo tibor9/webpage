@@ -23,9 +23,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:chloe.bracegirdle@sociology.ox.ac.uk
+- icon: twitter
+  icon_pack: fab
+  label: Follow me on X
+  link: https://x.com/bracegirdle_c
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=kKhx0psAAAAJ&hl
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Network Members
 ---
+
+Chloe Bracegirdle is a British Academy Postdoctoral Fellow at the University of Oxford.
+
+Her main research interests include intergroup contact, integration, prejudice, discrimination and social influence. She studies social networks and investigates the causes and consequences of contact between different ethnic and religious groups. Her past research has shed light on how social networks in schools shape prejudice and perceptions of discrimination among adolescents. Chloe’s current British Academy project investigates the socio-psychological drivers of ethnic integration in UK schools.
+
+From 2020 to 2023, Chloe was a Postdoctoral Research Fellow at Nuffield College. Chloe received her DPhil in Experimental Psychology from the University of Oxford in 2020. She has also received an MSc in Psychological Research from the University of Oxford in 2016 and a BSc Hons in Psychology and Language Sciences from University College London in 2015.

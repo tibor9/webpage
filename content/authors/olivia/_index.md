@@ -5,13 +5,15 @@ title: Olivia Spiegler
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Research Fellow & Professor of Social Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: Nuffield College, University of Oxford
   url: https://www.nuffield.ox.ac.uk/people/profiles/olivia-spiegler/
-
+- name: Private University Goettingen
+  url: https://www.pfh.de/ueber-die-pfh/mitarbeitende-der-pfh/prof-dr-olivia-spiegler
+  
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
@@ -23,9 +25,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:olivia.spiegler@nuffield.ox.ac.uk <olivia.spiegler@nuffield.ox.ac.uk>
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PSDzACoAAAAJ&hl=de
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Network Members
 ---
+
+I am a Research Fellow at Nuffield College (University of Oxford, [profile](https://www.nuffield.ox.ac.uk/people/profiles/olivia-spiegler/)) and Professor of Social Psychology at the Private University Goettingen ([profile](https://www.pfh.de/ueber-die-pfh/mitarbeitende-der-pfh/prof-dr-olivia-spiegler)).
+

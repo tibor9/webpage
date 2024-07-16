@@ -6,6 +6,8 @@ url: michele
 # First and Last Names
 first_name: Michèle Denise
 last_name: Birtel
+sort_by: 'last_name'
+sort_ascending: true
 
 # Is this the primary user of the site?
 superuser: true

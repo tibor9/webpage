@@ -7,6 +7,9 @@ url: michele
 first_name: Michèle Denise
 last_name: Birtel
 
+# Last name first
+weight: 2
+
 # Is this the primary user of the site?
 superuser: true
 

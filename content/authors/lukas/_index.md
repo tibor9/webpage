@@ -8,6 +8,9 @@ superuser: true
 first_name: Lukas 
 last_name: Wallrich
 
+# Last name first
+weight: 6
+
 # Role/position
 role: Network Co-Chair. Lecturer in Organisational Psychology
 

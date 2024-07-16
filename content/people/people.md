@@ -17,11 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Network Convenors
-sort_by: Params.last_name
-sort_ascending: true
+  - Network Members
 design:
   show_interests: false
   show_role: true
   show_social: true
-  show_Network Members: false
 ---

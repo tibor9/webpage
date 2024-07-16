@@ -6,7 +6,7 @@ superuser: true
 
 # First and Last Names
 first_name: Libby
-last_name: Dury
+last_name: Drury
 
 # Role/position
 role: Network Co-Chair. Senior Lecturer in Organisational Psychology

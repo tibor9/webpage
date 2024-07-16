@@ -12,6 +12,7 @@ content:
   user_groups:
     - Network Convenors 
 sort_by: Params.last_name 
+sort_ascending: true
 design:
   # Show user's social networking links? (true/false)
   show_social: true

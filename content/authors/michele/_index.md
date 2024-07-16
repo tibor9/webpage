@@ -3,6 +3,10 @@
 title: Michèle Denise Birtel
 url: michele
 
+# First and Last Names
+first_name: Michèle Denise
+last_name: Birtel
+
 # Is this the primary user of the site?
 superuser: false
 

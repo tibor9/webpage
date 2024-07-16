@@ -11,7 +11,7 @@ content:
   # Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Network Convenors 
-    sort by: last_name
+    - Network Members 
 design:
   # Show user's social networking links? (true/false)
   show_social: true
@@ -21,4 +21,5 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
+
 ---

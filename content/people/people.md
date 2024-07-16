@@ -16,8 +16,8 @@ content:
   # Choose which groups/teams of users to display.
   # Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Network Convenors #only display this group for testing
-    sort_by: Params.last_name
+  - Network Convenors 
+    sort_by = "last_name"
 design:
   show_interests: false
   show_role: true

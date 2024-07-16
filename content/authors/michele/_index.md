@@ -8,7 +8,7 @@ first_name: Michèle Denise
 last_name: Birtel
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Network Chair. Associate Professor of Social Clinical Psychology

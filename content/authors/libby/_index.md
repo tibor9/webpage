@@ -8,6 +8,9 @@ superuser: true
 first_name: Libby
 last_name: Drury
 
+# Last name first
+weight: 4
+
 # Role/position
 role: Network Co-Chair. Senior Lecturer in Organisational Psychology
 

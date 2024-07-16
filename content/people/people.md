@@ -18,7 +18,6 @@ content:
   user_groups:
   - Network Convenors
   - Network Members
-    sort_by = "last_name"
 design:
   show_interests: false
   show_role: true

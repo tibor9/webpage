@@ -4,10 +4,6 @@ title: Libby Drury
 # Is this the primary user of the site?
 superuser: true
 
-# First and Last Names
-first_name: Libby
-last_name: Drury
-
 # Last name first
 weight: 4
 

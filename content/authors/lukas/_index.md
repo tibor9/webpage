@@ -4,10 +4,6 @@ title: Lukas Wallrich
 # Is this the primary user of the site?
 superuser: true
 
-# First and Last Names
-first_name: Lukas 
-last_name: Wallrich
-
 # Last name first
 weight: 6
 

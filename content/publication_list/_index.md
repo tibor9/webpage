@@ -3,6 +3,8 @@
 
  Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.
 
+- Godsil, R. D., Forde-Mazrui, K. & <span style='color:#3F50B5'>Tropp, L. R.</span> (2024). **Overcoming identity-based hierarchies: understanding psychological barriers and motivating social justice through intergroup contact.** *Research Handbook on Law and Psychology* [https://doi.org/10.4337/9781800881921.00037](https://doi.org/10.4337/9781800881921.00037)
+
 - <span style='color:#3F50B5'>Paolini, S.</span>, Harwood, J., Rubin, M., Huck, J., Dunn, K. & Dixon, J. (2024). **Reaching across social divides <i>deliberately</i>: Theoretical, political, and practical implications of intergroup contact volition for intergroup relations.** *Social and Personality Psychology Compass* [https://doi.org/10.1111/spc3.12988](https://doi.org/10.1111/spc3.12988)
 
 - <span style='color:#3F50B5'>Schäfer, S. J.</span>, Kros, M., Hewstone, M., Schmid, K., Fell, B. F., Jaspers, E., <span style='color:#3F50B5'>Kauff, M.</span>, Lemmer, G. & Christ, O. (2024). **Differential effects of positive versus negative contact: The importance of distinguishing valence from intensity.** *Group Processes &amp; Intergroup Relations* [https://doi.org/10.1177/13684302241258070](https://doi.org/10.1177/13684302241258070)
@@ -150,6 +152,7 @@
 - Cocco, V. M., Bisagno, E., Di Bernardo, G. A., Cadamuro, A., Riboldi, S. D., Crapolicchio, E., Trifiletti, E., <span style='color:#3F50B5'>Stathi, S.</span> & Vezzali, L. (2021). **Comparing story reading and video watching as two distinct forms of vicarious contact: An experimental intervention among elementary school children.** *British Journal of Social Psychology* [https://doi.org/10.1111/bjso.12404](https://doi.org/10.1111/bjso.12404)
 
 # Other Research by Network Members
+- <span style='color:#3F50B5'>Graf, S.</span>, Ol’hová, S. & Rupar, M. (2024). **Media and prejudice.** *Research Handbook on Communication and Prejudice* [https://doi.org/10.4337/9781802209662.00009](https://doi.org/10.4337/9781802209662.00009)
 - Husbands, D., Linceviciute, S. & <span style='color:#3F50B5'>Yetkili, O.</span> (2024). **The impostor phenomenon among racially minoritised university students: ‘who knows how to get rid of this?’.** *Race Ethnicity and Education* [https://doi.org/10.1080/13613324.2024.2386949](https://doi.org/10.1080/13613324.2024.2386949)
 - <span style='color:#3F50B5'>Kauff, M.</span>, Lämmle, L., Kroll, E., Gehring, L., Soucek, R. & Asbrock, F. (2024). **Should the city be for everyone? The relationship between worldviews, ideological attitudes, and the approval of hostile design.** *Journal of Community &amp; Applied Social Psychology* [https://doi.org/10.1002/casp.2867](https://doi.org/10.1002/casp.2867)
 - Buchanan, T., Perach, R., Husbands, D., Tout, A. F., Kostyuk, E., Kempley, J. & <span style='color:#3F50B5'>Joyner, L.</span> (2024). **Individual differences in sharing false political information on social media: Deliberate and accidental sharing, motivations and positive schizotypy.** *PLOS ONE* [https://doi.org/10.1371/journal.pone.0304855](https://doi.org/10.1371/journal.pone.0304855)

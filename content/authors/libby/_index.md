@@ -4,6 +4,9 @@ title: Libby Drury
 # Is this the primary user of the site?
 superuser: true
 
+# Last name first
+weight: 4
+
 # Role/position
 role: Network Co-Chair. Senior Lecturer in Organisational Psychology
 

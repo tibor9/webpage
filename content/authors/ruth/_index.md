@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ditlmann
+title: Ruth Ditlmann
 # Is this the primary user of the site?
 superuser: true
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Visintin
+title: Emilio Paolo Visintin
 # Is this the primary user of the site?
 superuser: true
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Green
+title: Eva G T Green
 # Is this the primary user of the site?
 superuser: true
 

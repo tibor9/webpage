@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Árnadóttir
+title: Katrín Árnadóttir
 # Is this the primary user of the site?
 superuser: true
 

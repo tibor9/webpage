@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Klocke
+title: Ulrich Klocke
 # Is this the primary user of the site?
 superuser: true
 
@@ -9,8 +9,8 @@ role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Humboldt University of Berlin
-  url: https://www.hu-berlin.de
+- name: Humboldt Universität zu Berlin
+  url: https://www.psychology.hu-berlin.de/de/1695813/57490
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

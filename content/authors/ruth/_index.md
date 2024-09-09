@@ -23,7 +23,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:r.ditlmann@hertie-school.org <r.ditlmann@hertie-school.org>
-
+- icon: globe
+  icon-pack: fas
+  link: https://sites.google.com/view/ruthditlmann/startseite
+  
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

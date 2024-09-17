@@ -1,26 +1,24 @@
 # Define the data with full names
 people <- list(
-  # list(name = "Hanna Zagefka", first_name = "Hanna", role = "Professor of Social Psychology", institution = "Royal Holloway, University of London", url = "https://www.royalholloway.ac.uk", email = "Hanna.Zagefka@rhul.ac.uk"),
-  # list(name = "Orkun Yetkili", first_name = "Orkun", role = "Senior Lecturer in Psychology", institution = "University of Westminster", url = "https://www.westminster.ac.uk", email = "Orkun.Yetkili@westminster.ac.uk"),
-  # list(name = "Emine Bilgen", first_name = "Emine", role = "PhD Student", institution = "Royal Holloway, University of London", url = "https://www.royalholloway.ac.uk", email = "Emine.Bilgen.2021@live.rhul.ac.uk"),
-  # list(name = "Deborah Shulman", first_name = "Deborah", role = "Senior Research Associate", institution = "University of East Anglia", url = "https://www.uea.ac.uk", email = "D.Shulman@uea.ac.uk"),
-  # list(name = "Merve Ozturk", first_name = "Merve", role = "PhD Student", institution = "Durham University", url = "https://www.dur.ac.uk", email = "merve.ozturk@durham.ac.uk"),
-  # list(name = "Jie Huang", first_name = "Jie", role = "PhD Student", institution = "Durham University", url = "https://www.dur.ac.uk", email = "jie.huang3@durham.ac.uk"),
-  # list(name = "Rhiannon Turner", first_name = "Rhiannon", role = "Professor of Social Psychology", institution = "Queen’s University Belfast", url = "https://www.qub.ac.uk", email = "r.turner@qub.ac.uk"),
-  # list(name = "Nina Briggs", first_name = "Nina", role = "Research Fellow", institution = "Queen’s University Belfast", url = "https://www.qub.ac.uk", email = "n.briggs@qub.ac.uk"),
-  # list(name = "Sylvie Graf", first_name = "Sylvie", role = "Professor", institution = "Czech Academy of Sciences", url = "https://www.cas.cz", email = "s.graf@cas.cz"),
-  # list(name = "Maria-Therese Friehs", first_name = "Maria-Therese", role = "Research Associate", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "maria.friehs@fernuni-hagen.de"),
-  # list(name = "Laura Joyner", first_name = "Laura", role = "Research Fellow", institution = "Middlesex University", url = "https://www.mdx.ac.uk", email = "l.joyner@mdx.ac.uk"),
-  #list(name = "Francesca Prati", first_name = "Francesca", role = "Associate Professor of Social Psychology", institution = "University of Bologna", url = "https://www.unibo.it/sitoweb/francesca.prati", email = "francesca.prati@unibo.it"),
-  #list(name = "Ulrich Wagner", first_name = "Ulrich", role = "Professor of Social Psychology", institution = "University of Marburg", url = "https://www.uni-marburg.de/de/fb04/team-cohrs/team/ulrich-wagner", email = "Wagner1@staff.uni-marburg.de"),
-  #list(name = "Maarten van Zalk", first_name = "Maarten", role = "Professor of Developmental Psychology", institution = "University of Osnabrück", url = "https://www.imis.uni-osnabrueck.de/personen/imis_mitglieder/van_zalk_maarten.html", email = "mavanzalk@uni-osnabrueck.de"),
-  #list(name = "Mathias Kauff", first_name = "Mathias", role = "Professor for Social Psychology", institution = "Medican School Hamburg", url = "https://www.medicalschool-hamburg.de/ueber-uns/team/team-fakultaet-humanwissenschaften/mathias-kauff/", email = "mathias.kauff@medicalschool-hamburg.de"),
-  #list(name = "Danielle Blaylock", first_name = "Danielle", role = "Senior Lecturer", institution = "Queen’s University Belfast", url = "https://pure.qub.ac.uk/en/persons/danielle-blaylock", email = "d.blaylock@qub.ac.uk"),
-  #list(name = "Sarina Schäfer", first_name = "Sarina", role = "Lecturer", institution = "University of Hagen", url = "https://www.fernuni-hagen.de", email = "sarina.schaefer@fernuni-hagen.de")
-  #list(name = "Ditte Barnoth", first_name = "Ditte", role = "PhD student", institution = "University of Newcastle (Australia)", url = "https://www.linkedin.com/in/ditte-b-80876b60/", email = "ditte.barnoth@uon.edu.au")
-  list(name = "Chloe Bracegirdle", first_name = "Chloe", role = "British Academy Postdoctoral Fellow", institution = "University of Oxford", url = "https://www.nuffield.ox.ac.uk/people/profiles/chloe-bracegirdle/", email = "chloe.bracegirdle@sociology.ox.ac.uk"),
-  list(name = "Olivia Spiegler", first_name = "Olivia", role = "Postdoctoral Researcher", institution = "University of Oxford", url = "https://www.nuffield.ox.ac.uk/people/profiles/olivia-spiegler/", email = "olivia.spiegler@nuffield.ox.ac.uk <olivia.spiegler@nuffield.ox.ac.uk>")
-  )
+  list(name = "Green", first_name = "Eva G T", role = "Associate Professor", institution = "Université de Lausanne", url = "https://www.unil.ch", email = "eva.green@unil.ch <eva.green@unil.ch>"),
+  list(name = "Köbrich", first_name = "Julia", role = "Research Fellow", institution = "GIGA Hamburg", url = "https://www.giga-hamburg.de", email = "julia.koebrich@giga-hamburg.de <julia.koebrich@giga-hamburg.de>"),
+  #list(name = "Van Assche", first_name = "Jasper", role = "", institution = "Université Libre de Bruxelles", url = "https://www.ulb.be", email = "jasper.van.assche@ulb.be <jasper.van.assche@ulb.be>"),
+  list(name = "Ditlmann", first_name = "Ruth", role = "Professor of Social Psychology and Public Policy", institution = "Hertie School", url = "https://www.hertie-school.org", email = "r.ditlmann@hertie-school.org <r.ditlmann@hertie-school.org>"),
+  list(name = "Sengupta", first_name = "Nikhil", role = "Senior Lecturer", institution = "University of Kent", url = "https://www.kent.ac.uk", email = "n.sengupta@kent.ac.uk <n.sengupta@kent.ac.uk>"),
+  list(name = "Barlow", first_name = "Fiona", role = "Professor", institution = "University of Queensland", url = "https://www.uq.edu.au", email = "f.barlow@psy.uq.edu.au <f.barlow@psy.uq.edu.au>"),
+  list(name = "Wright", first_name = "Stephen", role = "", institution = "Simon Fraser University", url = "https://www.sfu.ca", email = "scwright@sfu.ca <scwright@sfu.ca>"),
+  list(name = "Visintin", first_name = "Emilio Paolo", role = "Associate Professor in Social Psychology", institution = "University of Ferrara", url = "https://www.unife.it", email = "emiliopaolo.visintin@unife.it <emiliopaolo.visintin@unife.it>"),
+  list(name = "Árnadóttir", first_name = "Katrín", role = "Post-Doc", institution = "KU Leuven", url = "https://www.kuleuven.be", email = "katrin.arnadottir@kuleuven.be <katrin.arnadottir@kuleuven.be>"),
+#  list(name = "Klocke", first_name = "Ulrich", role = "", institution = "Humboldt University of Berlin", url = "https://www.hu-berlin.de", email = "klocke@hu-berlin.de <klocke@hu-berlin.de>"),
+  list(name = "Dixon", first_name = "John", role = "Professor of Psychology", institution = "The Open University", url = "https://www.open.ac.uk", email = "john.dixon@open.ac.uk <john.dixon@open.ac.uk>"),
+  list(name = "Crone", first_name = "Cassandra", role = "PhD Candidate", institution = "Macquarie University", url = "https://www.mq.edu.au", email = "cassandra-lynn.crone@hdr.mq.edu.au <cassandra-lynn.crone@hdr.mq.edu.au>"),
+  list(name = "Casquinho", first_name = "Beatriz", role = "PhD Candidate", institution = "ISCTE – University Institute of Lisbon", url = "https://www.iscte-iul.pt", email = "bmgco@iscte-iul.pt <bmgco@iscte-iul.pt>")
+)
+
+people <- lapply(people, function(person) {
+  person$name <- paste(person$first_name, person$name)
+  person
+})
 
 
 # Function to create directory and write _index.md

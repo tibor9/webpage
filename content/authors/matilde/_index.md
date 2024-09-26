@@ -22,7 +22,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: matilde.tassinari@helsinki.fi
+  link: mailto:matilde.tassinari@helsinki.fi
 - icon: twitter
   icon_pack: fab
   label: Follow me on Twitter

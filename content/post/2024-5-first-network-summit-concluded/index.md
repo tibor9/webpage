@@ -10,7 +10,7 @@ authors: ["Lukas Wallrich"]
 🌟 We just completed the **inaugural summit** of the new **international Contact Research Network** - thanks to the amazing colleagues who spent the last 2 days with us in London at Birkbeck!🌟
   
   Our conversations highlighted some priorities and opportunities for future research👇
-  💡Contact interventions can promote understanding in schools (Lindsey) and at work (Libby), and reduce political polarisation (Michèle).
+  💡Contact interventions can promote understanding in schools (Lindsey), at work (Libby) and in conflict situations (Orkun), and reduce political polarisation (Michèle).
   💡Contact in everyday life may also promote understanding, yet we need to further explore how to create successful interactions (Stefania, Deborah & Patrick).
   💡There are promising opportunities to use new technologies to promote contact and better intergroup relations - from VR to chatbots (Lukas).
   

@@ -13,6 +13,9 @@ main:
   - name: Announcements
     url: "#announcements"
     weight: 80
+  - name: Contact Colloquium
+    url: "colloquium"
+    weight: 90
   - name: Publications
     url: "publication_list"
-    weight: 80
+    weight: 100

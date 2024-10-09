@@ -10,13 +10,21 @@ jobs:
   deploy:
     name: Generate announcement
     runs-on: ubuntu-latest
+
+    permissions:
+      # Give default GITHUB_TOKEN write permission to commit and push the changed files back to repo.
+      contents: write
+      
     steps:
+
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup r2u
         uses: eddelbuettel/github-actions/r2u-setup@master
-
+        
       - name: Package Dependencies
 
         run: Rscript -e 'install.packages(c("googlesheets4", "httr", "digest"))'

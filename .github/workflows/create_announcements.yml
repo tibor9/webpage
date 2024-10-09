@@ -6,9 +6,6 @@ on:
   # run on request (via button in actions menu)
   workflow_dispatch:
 
-env:
-  _R_CHECK_FORCE_SUGGESTS_: "false"
-
 jobs:
   deploy:
     name: Generate announcement

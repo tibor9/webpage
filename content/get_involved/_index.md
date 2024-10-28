@@ -24,16 +24,15 @@ type: "page"
 
     .form-textarea {
         resize: vertical;
-        min-height: 100px;
+        min-height: 110px;
     }
 </style>
 
 ## Join the Network
 
 Interested in joining the Contact Research Network? Fill out the form below to get involved!
-
-<div class="form-container">
-    <form action="https://public.herotofu.com/v1/b49c9690-952e-11ef-a0ee-650b92707733" method="post" accept-charset="UTF-8">
+<div class="form-container" style="width: 80%;">
+    <form action="https://public.herotofu.com/v1/b49c9690-952e-11ef-a0ee-650b92707733" method="post" accept-charset="UTF-8" style="width: 75%;">
         <div class="form-group">
             <label for="name" class="form-label">Your Name</label>
             <input name="Name" id="name" type="text" required />
@@ -43,7 +42,7 @@ Interested in joining the Contact Research Network? Fill out the form below to g
             <input name="Email" id="email" type="email" required />
         </div>
         <div class="form-group">
-            <label for="role" class="form-label">Role</label>
+            <label for="role" class="form-label">Current role</label>
             <select name="Role" id="role" required onchange="toggleOtherField()">
                 <option value="" disabled selected>Select your role</option>
                 <option value="PhD Student">PhD Student</option>
@@ -57,7 +56,11 @@ Interested in joining the Contact Research Network? Fill out the form below to g
             <input name="OtherRole" id="otherRole" type="text" />
         </div>
         <div class="form-group">
-            <input type="submit" value="Join the Network" />
+            <label class="form-label" for="message">Your interest/expertise</label>
+            <textarea class="form-textarea" name="Message" id="message" required>Please describe your interest and/or expertise regarding contact research in just 1-2 sentences.</textarea>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Request to join" />
             <div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
                 <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
             </div>

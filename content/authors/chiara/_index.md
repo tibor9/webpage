@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emily Haines
+title: Chiara Imperato
 # Is this the primary user of the site?
 superuser: true
 
@@ -8,12 +8,12 @@ superuser: true
 weight: 6
 
 # Role/position
-role: PhD Candidate
+role: Post Doc
 
 # Organizations/Affiliations
 organizations:
-- name: Flinders University
-  url: https://researchnow.flinders.edu.au/en/persons/emily-haines
+- name: University of Parma, Italy
+  url: https://personale.unipr.it/it/ugovdocenti/person/204337
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -25,13 +25,9 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:emily.haines@flinders.edu.au
-- icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/EAHaines89
-- icon: linkedin
-  icon_pack: fab
+  link: mailto:chiara.imperato@unipr.it
+- icon: researchgate
+  icon_pack: ai
   link: https://www.linkedin.com/in/emily-haines-7b14a1200/
 
 # Organizational groups that you belong to (for People widget)
@@ -41,4 +37,4 @@ user_groups:
 ---
 
 
-
+Chiara Imperato, Ph.D., is a post-doctoral fellow at the University of Parma, Italy. She obtained her Ph.D. in May 2022 discussing her thesis focused on the identity processes involved in intergroup contact occurring in online environments, winning a grant from the Italian Association of Psychology (AIP). She is involved in several studies and projects on online intergroup relations, online prejudice and discrimination, and the impact of online environments on individuals’ well-being. She is also interested in the benefits of games and videogames in terms of intergroup relations, and the identity processes involved.

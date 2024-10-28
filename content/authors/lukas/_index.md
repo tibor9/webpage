@@ -52,7 +52,7 @@ user_groups:
 - Network Convenors
 ---
 
-Lukas works as a Lecturer in the Birkbeck Business School. There, he teaches on organisational psychology programmes and primarily researches how workforce diversity can be harnessed to improve organisational performance. Other research interests include the effect of intergroup contact on pro-social behaviour, the development of stereotypes and implicit associations, and the credibility of current research in organisational psychology and behind.
+Lukas works as a Lecturer at Birkbeck Business School. There, he teaches on organisational psychology programmes and primarily researches how workforce diversity can be harnessed to improve organisational performance. Other research interests include the effect of intergroup contact on pro-social behaviour, the development of stereotypes and implicit associations, and the credibility of current research in organisational psychology and behind.
 
 He is also very interested in Open Science and is an avid R user. In that space, he enjoys contributing to the development of tools that support open research - for instance, the CiteSource package that supports meta-analyses. He has also authored two R packages, rsprite2 and timesaveR.
 

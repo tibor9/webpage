@@ -3,6 +3,8 @@ title: "Contact"
 layout: "contact"
 ---
 
+
+
 <style>
         .form-container {
             display: flex;
@@ -27,7 +29,7 @@ layout: "contact"
     </style>
     
 <div style="display: flex; justify-content: center; align-items: center; margin: 0;margin-top: 20;">
-<br>        <div style="width: 50%;">
+<br>        <div style="width: 50%;"> <a href = "https://contactresearch.substack.com/">Subscribe to our newsletter </a> or send us a message below.<br>&nbsp;<br>      
      <form class="form-container" action="https://public.herotofu.com/v1/c4ce2140-4c97-11ee-b711-0fdc810d0d65" method="POST" accept-charset="UTF-8">
         <div class="form-group">
             <label class="form-label" for="name">Your Name</label>

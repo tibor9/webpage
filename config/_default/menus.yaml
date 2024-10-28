@@ -7,11 +7,11 @@ main:
   - name: People
     url: "#people"
     weight: 30
-  - name: Contact
-    url: "#contact"
-    weight: 60
   - name: Announcements
     url: "#announcements"
+    weight: 40
+  - name: Get Involved
+    url: "get_involved"
     weight: 80
   - name: Contact Colloquium
     url: "colloquium"

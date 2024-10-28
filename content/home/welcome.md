@@ -22,6 +22,6 @@ design:
 
 We bring together intergroup contact researchers from countries around the world 
 to discuss their latest work, exchange ideas and strike up
-collaborations. See below to discover who is involved, and contact us if you 
-are interested in joining.
+collaborations. See below to discover who is involved, [join us](get_involved) if you are a contact researcher, 
+or [sign up to our newsletter](https://contactresearch.substack.com/) to stay informed about our activities.
 

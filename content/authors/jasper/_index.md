@@ -4,9 +4,6 @@ title: Jasper Van Assche
 # Is this the primary user of the site?
 superuser: true
 
-# Last name first
-weight: 6
-
 # Role/position
 role: Professor in Social Psychology
 

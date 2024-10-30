@@ -1,8 +1,8 @@
 name: Create announcements
 on:
   schedule:
-    # Schedule to run every hour
-    - cron: '10,25,40,55 * * * *'
+    # Schedule to run every 30 minutes (at odd times to balance server load)
+    - cron: '10,40 * * * *'
   # run on request (via button in actions menu)
   workflow_dispatch:
 

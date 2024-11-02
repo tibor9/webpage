@@ -3,6 +3,8 @@
 
  Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.
 
+- <span style='color:#3F50B5'>Árnadóttir, K.</span>, Baysu, G., van Laar, C., Phalet, K., <span style='color:#3F50B5'>Tropp, L.</span>, Ullrich, J., Sebben, S. & <span style='color:#3F50B5'>Hässler, T.</span> (2024). **How positive and negative intergroup contact jointly inform minority support for social change: The role of system-fairness beliefs.** *PsyArXiv* [https://doi.org/10.31234/osf.io/pc8r9](https://doi.org/10.31234/osf.io/pc8r9)
+
 - <span style='color:#3F50B5'>Shulman, D.</span>, <span style='color:#3F50B5'>Meleady, R.</span>, <span style='color:#3F50B5'>Hodson, G.</span> & Crisp, R. J. (2024). **Fluctuations in Prejudice Do Not Track Fluctuations in Ordinary Contact in Three 5-Wave “Shortitudinal” Studies Examining Daily, Weekly, or Monthly Intervals.** *Social Psychological and Personality Science* [https://doi.org/10.1177/19485506241284079](https://doi.org/10.1177/19485506241284079)
 
 - <span style='color:#3F50B5'>Borinca, I.</span>, Koc, Y. & Mustafa, S. (2024). **Fostering Social Cohesion in Post‐Conflict Societies: The Power of Normative Apologies in Reducing Competitive Victimhood and Enhancing Reconciliation and Intergroup Negotiation.** *European Journal of Social Psychology* [https://doi.org/10.1002/ejsp.3116](https://doi.org/10.1002/ejsp.3116)

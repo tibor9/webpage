@@ -29,3 +29,5 @@ social:
 user_groups:
 - Network Members
 ---
+
+Dr. Maor Shani is a post-doctoral researcher and lecturer in the Department of Developmental Psychology at the Institute for Psychology, Osnabrück University, Germany. Trained as a social psychologist with a Ph.D. from Jacobs University Bremen, his dissertation explored the long-term effects of planed encounters between Jews and Arabs in Israel, aimed at fostering positive intergroup relations, coexistence, and reconciliation. His current research interests include the study of intergroup relations, with a special focus on the role of emotions in conflict and the promotion of reconciliation through peace education and psychological interventions. He is also interested in coping with discrimination and the psychosocial impact of racism on individuals, with a focus on Antisemitism, and in coping, resilience, and health-related quality of life among children and adolescents with chronic illnesses. His current work also includes pioneering research on social network interventions to enhance intergroup tolerance and diminish affective polarization among adolescents within educational settings. 

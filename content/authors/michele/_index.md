@@ -10,7 +10,7 @@ weight: 2
 superuser: true
 
 # Role/position
-role: Co-Founder and Network Chair. Associate Professor of Social Clinical Psychology
+role: Network Co-Founder and Chair. Associate Professor of Social Clinical Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -45,4 +45,4 @@ user_groups:
 
 # Below the line: a longer bio if you like
 ---
-For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).
+ICRN Co-Founder and Chair. For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).

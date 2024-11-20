@@ -10,7 +10,7 @@ weight: 2
 superuser: true
 
 # Role/position
-role: Network Chair. Associate Professor of Social Clinical Psychology
+role: Co-Founder and Network Chair. Associate Professor of Social Clinical Psychology
 
 # Organizations/Affiliations
 organizations:

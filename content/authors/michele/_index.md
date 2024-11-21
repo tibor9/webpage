@@ -45,4 +45,4 @@ user_groups:
 
 # Below the line: a longer bio if you like
 ---
-ICRN Co-Founder and Chair. For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).
+ICRN Founder and Chair. For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).

@@ -5,7 +5,7 @@ title: Libby Drury
 superuser: true
 
 # Last name first
-weight: 4
+weight: 6
 
 # Role/position
 role: Research Summit Organizer. Reader in Social and Organisational Psychology

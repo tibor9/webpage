@@ -8,7 +8,7 @@ superuser: true
 weight: 4
 
 # Role/position
-role: Network Co-Chair. Reader in Social and Organisational Psychology
+role: Research Summit Organizer. Reader in Social and Organisational Psychology
 
 # Organizations/Affiliations
 organizations:

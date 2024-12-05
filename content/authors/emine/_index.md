@@ -8,7 +8,7 @@ superuser: true
 weight: 8
 
 # Role/position
-role: Network Newsletter — PhD Student
+role: Newsletter and Podcast — PhD Student
 
 # Organizations/Affiliations
 organizations:

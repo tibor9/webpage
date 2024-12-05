@@ -7,8 +7,11 @@ superuser: true
 # Last name first
 weight: 4
 
-# Role/position
-role: Podcast and Website —— Lecturer in Organisational Psychology
+# Role
+network role: Podcast and Website
+
+# Position
+job title: Lecturer in Organisational Psychology
 
 # Organizations/Affiliations
 organizations:

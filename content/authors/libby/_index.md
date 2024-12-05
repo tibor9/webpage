@@ -37,7 +37,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Network Convenors
+- Network Committee
 ---
 
 Libby is a Senior Lecturer in the Birkbeck Business School, University of London. She obtained her PhD focused on intergroup contact between age groups from University of Kent in 2017. 

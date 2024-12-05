@@ -8,7 +8,7 @@ superuser: true
 weight: 4
 
 # Role/position
-role: Podcast and Website. Lecturer in Organisational Psychology
+role: Podcast and Website —— Lecturer in Organisational Psychology
 
 # Organizations/Affiliations
 organizations:

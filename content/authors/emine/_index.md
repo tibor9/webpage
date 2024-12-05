@@ -4,6 +4,9 @@ title: Emine Bilgen
 # Is this the primary user of the site?
 superuser: true
 
+# Last name first
+weight: 8
+
 # Role/position
 role: Network Newsletter. PhD Student
 

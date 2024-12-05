@@ -10,7 +10,7 @@ weight: 2
 superuser: true
 
 # Role/position
-role: Network Founder and Chair. Associate Professor of Social Clinical Psychology
+role: Network Founder and Colloquium Organizer. Associate Professor of Social Clinical Psychology
 
 # Organizations/Affiliations
 organizations:

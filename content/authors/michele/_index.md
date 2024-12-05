@@ -45,4 +45,4 @@ user_groups:
 
 # Below the line: a longer bio if you like
 ---
-Founder of the International Contact Research Network. For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).
+Founder of the International Contact Research Network and organizer of the Contact Colloquium. For more details about my background and my work, please visit my [website](https://www.michelebirtel.com).

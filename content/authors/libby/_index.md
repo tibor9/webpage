@@ -8,7 +8,7 @@ superuser: true
 weight: 6
 
 # Role/position
-role: Research Summit Organizer —— Reader in Social and Organisational Psychology
+role: Research Summit Organizer — Reader in Social and Organisational Psychology
 
 # Organizations/Affiliations
 organizations:

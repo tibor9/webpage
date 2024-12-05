@@ -5,7 +5,7 @@ title: Lukas Wallrich
 superuser: true
 
 # Last name first
-weight: 6
+weight: 4
 
 # Role/position
 role: Podcast and Website. Lecturer in Organisational Psychology

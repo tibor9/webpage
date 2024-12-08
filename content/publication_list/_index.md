@@ -3,6 +3,8 @@
 
  Note that this list is automatically generated and may not be exhaustive (or entirely accurate). Authors in <span style='color:#3F50B5'>blue</span> are members of the Contact Research Network.
 
+- Schaefer, C. D., <span style='color:#3F50B5'>McKeown, S.</span>, Ali, S., Dupont, P., Manley, D., Rao, S. & Taylor, L. K. (2025). **The Longitudinal Effects of Intergroup Contact on Youth Attitudes Towards Ethnic Minorities and Constructive Societal Engagement.** *Journal of Community &amp; Applied Social Psychology* [https://doi.org/10.1002/casp.70026](https://doi.org/10.1002/casp.70026)
+
 - Acar, B., <span style='color:#3F50B5'>Van Assche, J.</span>, Ardaya Velarde, S., Gonzalez, R., Lay, S., Rao, S. & <span style='color:#3F50B5'>McKeown, S.</span> (2024). **R-E-S-P-E-C-T, find out what it means to mixing: Testing novel emotional mediators of intergroup contact effects.** *International Journal of Intercultural Relations* [https://doi.org/10.1016/j.ijintrel.2024.102070](https://doi.org/10.1016/j.ijintrel.2024.102070)
 
 - <span style='color:#3F50B5'>Paolini, S.</span>, Gibbs, M., Sales, B., Anderson, D. & McIntyre, K. (2024). **Negativity bias in intergroup contact: Meta-analytical evidence that bad is stronger than good, especially when people have the opportunity and motivation to opt out of contact.** *Psychological Bulletin* [https://doi.org/10.1037/bul0000439](https://doi.org/10.1037/bul0000439)
@@ -10,6 +12,8 @@
 - <span style='color:#3F50B5'>Yetkili, O.</span>, Agdelen, N., Vural, S. & Kostyuk, E. (2024). **The effects of identity (subordinate vs. superordinate) salience on intergroup attitudes, anxiety, and contact intentions in North Cyprus.** *Peace and Conflict: Journal of Peace Psychology* [https://doi.org/10.1037/pac0000747](https://doi.org/10.1037/pac0000747)
 
 - <span style='color:#3F50B5'>Borinca, I.</span>, <span style='color:#3F50B5'>Van Assche, J.</span> & Koc, Y. (2024). **How meta-humanization leads to conciliatory attitudes but not intergroup negotiation: The mediating roles of attribution of secondary emotions and blatant dehumanization.** *Current Research in Ecological and Social Psychology* [https://doi.org/10.1016/j.cresp.2024.100198](https://doi.org/10.1016/j.cresp.2024.100198)
+
+- <span style='color:#3F50B5'>Tassinari, M.</span>, Aulbach, M. B., Harjunen, V. J., Cocco, V. M., Vezzali, L. & Jasinskaja-Lahti, I. (2024). **The effects of positive and negative intergroup contact in virtual reality on outgroup attitudes: Testing the contact hypothesis and its mediators.** *Group Processes &amp; Intergroup Relations* [https://doi.org/10.1177/13684302241237747](https://doi.org/10.1177/13684302241237747)
 
 - Asimovic, N., <span style='color:#3F50B5'>Ditlmann, R. K.</span> & Samii, C. (2024). **Estimating the effect of intergroup contact over years: evidence from a youth program in Israel.** *Political Science Research and Methods* [https://doi.org/10.1017/psrm.2024.8](https://doi.org/10.1017/psrm.2024.8)
 

@@ -9,6 +9,8 @@
 
 - <span style='color:#3F50B5'>Paolini, S.</span>, Gibbs, M., Sales, B., Anderson, D. & McIntyre, K. (2024). **Negativity bias in intergroup contact: Meta-analytical evidence that bad is stronger than good, especially when people have the opportunity and motivation to opt out of contact.** *Psychological Bulletin* [https://doi.org/10.1037/bul0000439](https://doi.org/10.1037/bul0000439)
 
+- <span style='color:#3F50B5'>Friehs, M.</span>, Plaza, A., <span style='color:#3F50B5'>Schäfer, S. J.</span>, Gonzalez, R. & <span style='color:#3F50B5'>Christ, O.</span> (2024). **Does intergroup contact affect political attitudes and behaviours? - A longitudinal mediation analysis using the Chilean Longitudinal Social Survey (ELSOC).** *PsyArXiv* [https://doi.org/10.31234/osf.io/2mzdq](https://doi.org/10.31234/osf.io/2mzdq)
+
 - <span style='color:#3F50B5'>Yetkili, O.</span>, Agdelen, N., Vural, S. & Kostyuk, E. (2024). **The effects of identity (subordinate vs. superordinate) salience on intergroup attitudes, anxiety, and contact intentions in North Cyprus.** *Peace and Conflict: Journal of Peace Psychology* [https://doi.org/10.1037/pac0000747](https://doi.org/10.1037/pac0000747)
 
 - <span style='color:#3F50B5'>Borinca, I.</span>, <span style='color:#3F50B5'>Van Assche, J.</span> & Koc, Y. (2024). **How meta-humanization leads to conciliatory attitudes but not intergroup negotiation: The mediating roles of attribution of secondary emotions and blatant dehumanization.** *Current Research in Ecological and Social Psychology* [https://doi.org/10.1016/j.cresp.2024.100198](https://doi.org/10.1016/j.cresp.2024.100198)

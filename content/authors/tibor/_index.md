@@ -9,7 +9,7 @@ role: Post Doc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Groningen
+- name: Czech Academy of Sciences
   url: https://www.linkedin.com/in/tibor-%25C5%25BEingora-90980a84/
 
 # Short bio (displayed in user profile at end of posts)
